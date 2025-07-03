@@ -40,7 +40,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: [grigory.zhovtun@email.com](mailto:grigory.zhovtun@email.com)
+- 📧 Email: [grigorii.zhovtun@gmail.com](mailto:grigorii.zhovtun@gmail.com)
 
 ---
 
