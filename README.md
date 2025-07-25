@@ -38,7 +38,7 @@
 ## 📬 Contact Me
 
 * 📧 Email: [grigorii.zhovtun@gmail.com](mailto:grigorii.zhovtun@gmail.com)
-* 📲 Telegram: [GrigoriiZhovtun](https://t.me/GrigoriiZhovtun)
+* 📲 Telegram: [GrigoriiZhovtun](https://t.me/gregzho)
 
 ---
 
