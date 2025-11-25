@@ -41,7 +41,7 @@ Feel free to explore these repositories and others to see my coding style and co
 
 ## 📬 Get in Touch  
 You can reach me via:  
-- Telegram: [@greg_zhovtun](https://t.me/greg_zhovtun)  
+- Telegram: [@greg_zhovtun](https://t.me/gregzho)  
 - LinkedIn: [LinkedIn Profile](#)  
 
 ---  
