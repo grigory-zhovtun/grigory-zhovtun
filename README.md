@@ -17,4 +17,3 @@
 ## 🏆 Recent achievements  
 - 📈 Successfully led analytics and data management initiatives at Capital Bank, automating reporting and optimizing processes.  
 - 🍽️ Contributed to analytics improvements for the Pyrogovy Dvorik café chain as a remote data analyst.  
-- 🎓 Earned Google Cloud Professional Data Engineer certification and achieved high rankings on Kaggle and GitHub. 
